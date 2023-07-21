@@ -1,4 +1,4 @@
-answer = "gauze"
+answer = "minis"
 tries = 6
 guess = None
 
